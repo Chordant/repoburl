@@ -1,0 +1,19 @@
+SEOS MUSIC changelog
+
+= Version 1.12
+* ADDED: Customize Section - Pro version.
+* ADDED: Only one text-domain.
+* ADDED: Translation ready.
+
+= Version 1.09
+* ADDED: The function to output the contents of our Dashboard Widget.
+
+= Version 1.08
+* Removed background body img from css file and background image in the editing box on the "Visual" admin menu.
+* Update custum header and custum background. Set default img.
+* Removed body font size 14px and update article font size 14px.
+* Defining the css class - screen-reader text.
+
+
+= Version 1.01 =
+* Initial release
